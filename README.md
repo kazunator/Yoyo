@@ -9,9 +9,6 @@
 
 Make.AI streamlines large language model applications by enabling users to input tasks directly, after which it autonomously creates and equips tailored agent teams for efficient task resolution. This innovative, user-friendly system bypasses the need for predefined agents, offering adaptable and dynamic solutions for diverse LLM applications.
 
-## Updates
-
-
 
 ## What is Make.AI
 
