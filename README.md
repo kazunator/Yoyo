@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_OF_YOUR_IMAGE](https://media.discordapp.net/attachments/1164616799527125092/1174113481126064178/file-PNJzy4ggPQa95wvR35tYMsMF.png?ex=65666963&is=6553f463&hm=5ab1aa5c3ae109fdcc6b7afb431af8c561585b199c78077576f02bac18d1388a&=&width=662&height=662)" alt="Logo of Make.AI" width="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1164616799527125092/1174113481126064178/file-PNJzy4ggPQa95wvR35tYMsMF.png?ex=65666963&is=6553f463&hm=5ab1aa5c3ae109fdcc6b7afb431af8c561585b199c78077576f02bac18d1388a&" alt="Logo of Make.AI" width="200"/>
 </p>
 
 # Make.AI
